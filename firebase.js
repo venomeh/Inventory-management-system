@@ -9,12 +9,12 @@ import { getStorage } from "firebase/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAzXOSCPYgivsQyJzvzMq5gHJd7vfT3FZo",
-  authDomain: "pantry-project-b53f0.firebaseapp.com",
-  projectId: "pantry-project-b53f0",
-  storageBucket: "pantry-project-b53f0.appspot.com",
-  messagingSenderId: "351554984526",
-  appId: "1:351554984526:web:43196210187ca2cff2c11f"
+  apiKey: "",
+  authDomain: "pantry-projec",
+  projectId: "pantry-project0",
+  storageBucket: "",
+  messagingSenderId: "6",
+  appId: "f"
 };
 
 // Initialize Firebase
